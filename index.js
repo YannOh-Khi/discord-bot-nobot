@@ -103,5 +103,5 @@ const {
   });
   
 
-  client.login(process.env.config.token);
+  client.login(process.env.token);
   
